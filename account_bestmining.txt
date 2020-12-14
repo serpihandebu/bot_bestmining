@@ -1,2 +1,2 @@
 yourmail@gmail.com
-yourpassword
+password
